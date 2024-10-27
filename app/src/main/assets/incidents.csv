@@ -1,0 +1,9 @@
+id,incident type,priority level,time,status,response team
+1,Data Breach,High,2024-09-10 14:35,Under Investigation,Team Alpha
+2,Malware,Medium,2024-09-09 09:15,Resolved,Team Beta
+3,DDoS Attack,High,2024-09-11 18:20,Ongoing,Team Gamma
+4,Phishing Attempt,Low,2024-09-08 12:45,Resolved,Team Delta
+5,Ransomware,High,2024-09-12 16:10,Under Investigation,Team Alpha
+6,Insider Threat,Medium,2024-09-07 10:00,Ongoing,Team Beta
+7,Vulnerability Exploitation,High,2024-09-11 07:30,Under Investigation,Team Gamma
+8,Brute Force Attack,Low,2024-09-08 20:50,Resolved,Team Delta

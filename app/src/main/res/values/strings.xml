@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">gll855_lab3</string>
+    <string name="logo">logo</string>
+    <string name="logo_name">Cyber Security Operations Center</string>
+    <string name="button_data">Data Breach</string>
+    <string name="button_malware">Malware</string>
+    <string name="button_ddos">DDos Attack</string>
+    <string name="button_phishing">Phishing</string>
+</resources>
